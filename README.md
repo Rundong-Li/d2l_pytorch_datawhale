@@ -26,3 +26,44 @@ Codes and notes for the course 'dive into deep learning (PyTorch version)'
  * Codes
    - [过拟合欠拟合及其解决方案](https://github.com/Rundong-Li/d2l_pytorch_datawhale/blob/master/src/jupyter%20notebook/7-%E8%BF%87%E6%8B%9F%E5%90%88%E6%AC%A0%E6%8B%9F%E5%90%88%E5%8F%8A%E5%85%B6%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88.ipynb)
    - [梯度消失、梯度爆炸以及Kaggle房价预测](https://github.com/Rundong-Li/d2l_pytorch_datawhale/blob/master/src/jupyter%20notebook/8-%E6%A2%AF%E5%BA%A6%E6%B6%88%E5%A4%B1%E3%80%81%E6%A2%AF%E5%BA%A6%E7%88%86%E7%82%B8%E4%BB%A5%E5%8F%8AKaggle%E6%88%BF%E4%BB%B7%E9%A2%84%E6%B5%8B.ipynb)
+   - [循环神经网络进阶]()
+### Task 4
+* Note
+   - [Markdown]()
+   - [PDF]()
+* Codes
+   - [机器翻译及相关技术]()
+   - [注意力机制和Seq2seq模型]()
+   - [Transformer]()
+### Task 5
+* Note
+   - [Markdown]()
+   - [PDF]()
+* Codes
+   - [卷积神经网络基础]()
+   - [LeNet]()
+   - [卷积神经网络进阶]()
+### Task 6
+* Note
+   - [Markdown]()
+   - [PDF]()
+* Codes
+   - [批量归一化和残差网络]()
+   - [凸优化]()
+   - [梯度下降]()
+### Task 7
+* Note
+   - [Markdown]()
+   - [PDF]()
+* Codes
+   - [目标检测基础]()
+   - [图像风格迁移]()
+   - [图像分类案例1]()
+### Task 8
+* Note
+   - [Markdown]()
+   - [PDF]()
+* Codes
+   - [图像分类案例2]()
+   - [生成对抗网络]()
+   - [DCGAN]()
